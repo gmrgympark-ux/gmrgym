@@ -2,7 +2,7 @@
   "name": "gmr-website-example",
   "version": "0.1.0",
   "private": true,
-   "homepage": "https://gmrgympark-ux.github.io/gmrgym/",
+  "homepage": "https://gmrgympark-ux.github.io/gmrgym/",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
